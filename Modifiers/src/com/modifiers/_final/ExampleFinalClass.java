@@ -1,2 +1,4 @@
-package com.modifiers._final;public class ExampleFinalClass {
+package com.modifiers._final;
+
+final class ExampleFinalClass {
 }

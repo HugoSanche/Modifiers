@@ -1,2 +1,8 @@
-package com.modifiers._final;public class ExtendExampleFinalClass {
+package com.modifiers._final;
+
+
+//error
+/*public class ExtendExampleFinalClass extends ExampleFinalClass{
 }
+
+ */
